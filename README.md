@@ -1,6 +1,6 @@
 Athletiq ecommerce gym project.
 
-1.Porject overview
+1.Project overview
 
 The aim is to dedicate gym related products and services to users while also providing user-friendly experience for purchasing athletic apparel, equipment and supplements. This website will include the core functionalities of an ecommerce project and an admin dashboard to effectively manage the website.
 
