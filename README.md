@@ -1,10 +1,13 @@
 Athletiq ecommerce gym project.
 
-1.Project overview
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9dd4b384-240d-4607-8847-46e01eab8808" />
+
+
+## 1. Project Overview
 
 The aim is to dedicate gym related products and services to users while also providing user-friendly experience for purchasing athletic apparel, equipment and supplements. This website will include the core functionalities of an ecommerce project and an admin dashboard to effectively manage the website.
 
-2.Key features
+## 2. Key Features
 
 *   Product Customization
 *   Chatbot Support
@@ -12,17 +15,17 @@ The aim is to dedicate gym related products and services to users while also pro
 *   Order and Checkout Process
 *   Admin Dashboard
 
-3.Technologies used
+## 3. Technologies Used
 
 *   **Framework:** Laravel
 *   **Wireframing:** Figma
 *   **Deployment/Hosting:** Aston Server
 *   **Project Management:** Trello
 
-4.Project Management
+## 4. Project Management
 
-Methodology - Agile devlopment with one week sprints.
-Tools - Trelloboard
+Methodology - Agile development with one week sprints.
+Tools - Trello board
 (https://trello.com/invite/b/68e4dfa5d1ff75f55d7dba1e/ATTI4366b944395a0655102c311ba7450ad8E76030A1/cs2tp)
     *   **GitHub Repo:**(https://github.com/brianry6/Team-Branching-32.git)
 
@@ -32,7 +35,7 @@ Tools - Trelloboard
 You can access the live website here:
 (https://cs2team32.cs2410-web01pvm.aston.ac.uk/)
 
-Team 32
+## 6. Team 32
 
 *   Brajan Rychlowski (UI/UX Designer)
 *   Habib Kamal (Backend Engineer)
