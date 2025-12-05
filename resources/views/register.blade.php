@@ -10,7 +10,8 @@
 
   <div class="login-container">
     <div class="imgcontainer">
-      <img src="{{ asset('images/logo.png') }}" alt="Athletiq Logo" class="avatar">
+      <img src="{{ asset('images/logo.jpg') }}" alt="Athletiq Logo" class="avatar" style="width:100px; height:auto;">
+    </div>
     </div>
 
     <h2>Create an Account</h2>
