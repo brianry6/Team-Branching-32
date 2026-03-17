@@ -167,6 +167,17 @@ body{
     background-color: var(--text-color2);
 }
 
+.product-details {
+    padding-top: 50px;
+}
+
+.container {
+    padding: 150px 50px 50px;
+}
+
+h1 {
+    padding-bottom: 50px;
+}
 /* Responsive */
 @media (max-width: 768px) {
     .product-container {

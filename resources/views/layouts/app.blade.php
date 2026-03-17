@@ -56,8 +56,10 @@
     <i class='bx bx-menu menu-icon'></i>
      <div class="nav-icons">
         <div class="search-wrapper">
-         <input type="text" class="search-input" placeholder="Search...">
+            <form action="{{ route('search') }}" method="GET">
+         <input type="text" name="search" class="search-input" placeholder="Search...">
             <i class='bx bx-search search-icon'></i>
+</form>
         </div>
         <a href="/cart" class=cart-a>
         <i class='bx bx-cart'></i>

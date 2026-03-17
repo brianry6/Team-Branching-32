@@ -46,8 +46,7 @@ use App\Http\Controllers\FrontendProductController;
 
 Route::get('/product/{id}', [FrontendProductController::class, 'show'])->name('product.show');
 Route::get('/category/{id}', [CategoryController::class, 'show'])->name('category.show');
-
-
+Route::get('/search', [FrontendProductController::class, 'search'])->name('search');
 // -------------------- ADMIN DASHBOARD --------------------
 
 Route::prefix('admin')->name('admin.')->group(function () {
