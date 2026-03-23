@@ -149,15 +149,9 @@
         <h1>ELEVATE YOUR<br><span class="highlight">PERFORMANCE</span></h1>
         <p class="hero-sub">Discover athletic wear and gear designed for champions.<br>Built to push your limits, every session.</p>
         <div class="hero-buttons">
-            <a href="#featured-products" class="cta-btn">
-                <span class="btn-text">Shop Now</span>
-            </a>
-            <a href="#collections" class="cta-btn cta-outline">
-                <span class="btn-text">Explore Collections</span>
-            </a>
-            <a href="{{ url('/about') }}" class="cta-btn cta-outline">
-                <span class="btn-text">About Us</span>
-            </a>
+            <a href="#featured-products" class="cta-btn">Shop Now</a>
+            <a href="#collections" class="cta-btn cta-outline">Explore Collections</a>
+            <a href="{{ url('/about') }}" class="cta-btn cta-outline">About Us</a>
         </div>
     </div>
 </header>
